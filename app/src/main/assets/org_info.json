@@ -183,68 +183,79 @@
     ]
   },
   {
-    "name": "Hermes",
+    "name": "Linkedin",
     "keywords": [
-      "Hermes"
+      "linkedin"
     ],
     "domains": [
-      "myhermes.co.uk",
-      "goherm.es"
+      "linkedin.com",
+      "in.linkedin.com",
+      "br.linkedin.com"
     ]
   },
   {
-    "name": "FedEx",
+    "name": "Twitter",
     "keywords": [
-      "FedEx"
+      "twitter"
     ],
     "domains": [
-      "fedex.com"
+      "twitter.com",
+      "help.twitter.com"
     ]
   },
   {
-    "name": "Collect+",
+    "name": "Facebook",
     "keywords": [
-      "Collect+"
-    ],
+      "facebook"
+          ],
     "domains": [
-      "nd.uk.com"
+      "facebook.com",
+      "m.facebook.com",
+      "mbasic.facebook.com"
     ]
   },
   {
-    "name": "Next",
+    "name": "google pay",
     "keywords": [
-      "Next"
+      "pay.google"
     ],
     "domains": [
-      "next.co"
+      "pay.google.com"
+      "accounts.google.com"
     ]
   },
   {
-    "name": "DPD",
+    "name": "Paytm",
     "keywords": [
-      "DPD"
+      "paytmbank",
+      "paytm"
     ],
     "domains": [
-      "dpd.co.uk",
-      "dpdlocal.co.uk"
+      "paytm.com",
+      "accounts.paytm.com",
+      "m.p-y.tm",
+      "netbanking.paytmbank.com"
     ]
   },
   {
-    "name": "DX",
+    "name": "github",
     "keywords": [
-      "DX Delivery"
+      "github"
     ],
     "domains": [
-      "mydx.uk"
+      "github.com"
     ]
   },
   {
-    "name": "Parcel Force",
+    "name": "Bank of Baroda",
     "keywords": [
-      "Parcel Force"
+      "bankofbaroda"
     ],
     "domains": [
-      "parcelforce.com"
+      "bankofbaroda.in",
+      "feba.bobibanking.com",
+      "online.bobcards.com",
+      "bobfinancial.com"
     ]
   },
   {
@@ -254,7 +265,7 @@
     ],
     "domains": [
       "amazon.com",
-      "amazon.co.uk"
+      "amazon.co.in"
     ]
   },
   {
@@ -263,17 +274,19 @@
       "DHL"
     ],
     "domains": [
-      "dhlparcel.co.uk",
+      "dhlparcel.co.in",
       "dhl.com"
     ]
   },
   {
-    "name": "Argos",
+    "name": "IRCTC",
     "keywords": [
-      "Argos"
+      "irctc"
     ],
     "domains": [
-      "argos.co.uk"
+      "irctc.co.in",
+      "irctc.com",
+      "irctctourism.com"
     ]
   },
   {
@@ -321,7 +334,8 @@
       "HDFC"
     ],
     "domains": [
-      "hdfcbank.co.in"
+      "hdfcbank.co.in",
+      "hdfc.io"
     ]
   },
   {
