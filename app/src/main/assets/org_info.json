@@ -267,12 +267,23 @@
     ]
   },
   {
-    "name": "Thames Water",
+    "name": "State Bank Of India",
     "keywords": [
-      "Thames Water"
+      "SBI",
+      "State Bank Of India",
+      "Sbi Cards",
+      "YONO"
+      
     ],
     "domains": [
-      "thameswater.co.uk"
+      "onlinesbi.sbi",
+      "sbicard.com",
+      "sbi.co.in",
+      "bank.sbi",
+      "retail.onlinesbi.sbi",
+      "sbiyono.sbi",
+      "yonobusiness.sbi",
+      "mobilityretail.sbi"
     ]
   },
   {
@@ -294,30 +305,34 @@
     ]
   },
   {
-    "name": "WalkUp",
+    "name": "HDFC Bank",
     "keywords": [
-      "WalkUp"
+      "HDFC Bank",
+      "HDFC"
     ],
     "domains": [
-      "w1k.in"
+      "hdfcbank.co.in"
     ]
   },
   {
-    "name": "TikTok",
+    "name": "Hotstar",
     "keywords": [
-      "TikTok"
+      "Hotstar"
     ],
     "domains": [
-      "tiktok.com"
+      "hotstar.com"
     ]
   },
   {
-    "name": "RingGo",
+    "name": " Airtel",
     "keywords": [
-      "RingGo"
+      "Airtel",
+      "AirtelXstream",
     ],
     "domains": [
-      "myringgo.com"
+      "airtel.in",
+      "airtel.com",
+      "airtelxstream.in"
     ]
   },
   {
