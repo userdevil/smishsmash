@@ -50,8 +50,7 @@
     "domains": [
       "jio.com",
       "jioconference.com",
-      "tiny1.jio.com",
-      "t.jig"
+      "tiny1.jio.com"
     ]
   },
   {
@@ -71,7 +70,7 @@
     ],
     "domains": [
       "youtube.com",
-      "youtu.be"
+      "youtub"
     ]
   },
   {
@@ -88,48 +87,48 @@
     ]
   },
   {
-    "name": "HSBC",
+    "name": "instagram",
     "keywords": [
-      "HSBC"
+      "instagram"
     ],
     "domains": [
-      "hsbc.co.uk"
+      "instagram.com"
     ]
   },
   {
-    "name": "Lloyds Bank",
+    "name": "TNSTC",
     "keywords": [
-      "Lloyds"
+      "tnstc"
     ],
     "domains": [
-      "lloydsbank.com"
+      "tnstc.in"
     ]
   },
   {
-    "name": "TSB",
+    "name": "RedBus",
     "keywords": [
-      "Govuk"
+      "redbus"
     ],
     "domains": [
-      "gov"
+      "redbus.in"
     ]
   },
   {
-    "name": "UK",
+    "name": "Flipkart",
     "keywords": [
-      "TSB"
+      "flipkart"
     ],
     "domains": [
-      "tsb.co.uk"
+      "flipkart.com"
     ]
   },
   {
-    "name": "Barclays Bank",
+    "name": "PhonePe",
     "keywords": [
-      "barclays"
+      "phonepe"
     ],
     "domains": [
-      "barclays.co.uk"
+      "phonepe.com"
     ]
   },
   {
@@ -138,47 +137,49 @@
       "IOB"
     ],
     "domains": [
-      "iobnet.co.in",
-      "iob.in"
+      "iobnet.co.in"
     ]
   },
   {
-    "name": "Natwest",
+    "name": "CyberCrime",
     "keywords": [
-      "Natwest"
+      "cybercrime"
     ],
     "domains": [
-      "natwest.com"
+      "cybercrime.gov.in"
     ]
   },
   {
-    "name": "Tesco Bank",
+    "name": "Zomato",
     "keywords": [
-      "tescobank"
+      "zomato"
     ],
     "domains": [
-      "tescobank.com"
+      "zomato.com"
     ]
   },
   {
-    "name": "Santander",
+    "name": "Swiggy",
     "keywords": [
-      "Santander"
+      "swiggy"
     ],
     "domains": [
-      "santander.co.uk"
+      "swiggy.com"
     ]
   },
   {
-    "name": "Royal Mail",
+    "name": "TneSevai",
     "keywords": [
-      "Royal Mail",
-      "mail"
+      "tnesevai",
+      "e-sevai",
+      "eseavi",
+      "TNeGA",
+      "tamil nadu e-sevai"
     ],
     "domains": [
-      "royalmail.com",
-      "ryml.me",
-      "postoffice.co.uk"
+      "tnega.tn.gov.in",
+      "services.india.gov.in",
+      "tnesevai.tn.gov.in"
     ]
   },
   {
@@ -192,63 +193,58 @@
     ]
   },
   {
-    "name": "UTS",
+    "name": "FedEx",
     "keywords": [
-      "UTS",
-      "UTS Mobile Ticket"
+      "FedEx"
     ],
     "domains": [
-      "utsonmobile.indianrail.gov.in"
+      "fedex.com"
     ]
   },
   {
-    "name": "PayTM",
+    "name": "Collect+",
     "keywords": [
-      "Paytm"
+      "Collect+"
     ],
     "domains": [
-      "paytm.com",
-      "m.p-y.tm"
+      "nd.uk.com"
     ]
   },
   {
-    "name": "Gpay",
+    "name": "Next",
     "keywords": [
-      "Gpay",
-      "Google Pay"
+      "Next"
     ],
     "domains": [
-      "pay.google.com"
+      "next.co"
     ]
   },
   {
-    "name": "Linkedin",
+    "name": "DPD",
     "keywords": [
-      "Linkedin"
+      "DPD"
     ],
     "domains": [
-      "linkedin.com",
-      "linkedin.in"
+      "dpd.co.uk",
+      "dpdlocal.co.uk"
     ]
   },
   {
-    "name": "Twitter",
+    "name": "DX",
     "keywords": [
-      "twitter"
+      "DX Delivery"
     ],
     "domains": [
-      "twitter.com"
-      "twitter.in"
+      "mydx.uk"
     ]
   },
   {
-    "name": "Facebook",
+    "name": "Parcel Force",
     "keywords": [
-      "Facebook"
+      "Parcel Force"
     ],
     "domains": [
-      "facebook.com",
-      "facebook.in"
+      "parcelforce.com"
     ]
   },
   {
@@ -258,7 +254,7 @@
     ],
     "domains": [
       "amazon.com",
-      "amazon.in"
+      "amazon.co.uk"
     ]
   },
   {
@@ -267,18 +263,17 @@
       "DHL"
     ],
     "domains": [
-      "dhlparcel.in",
+      "dhlparcel.co.uk",
       "dhl.com"
     ]
   },
   {
-    "name": "IRCTC",
+    "name": "Argos",
     "keywords": [
-      "IRCTC",
-      "PNR"
+      "Argos"
     ],
     "domains": [
-      "irctc.co.in"
+      "argos.co.uk"
     ]
   },
   {
@@ -298,8 +293,7 @@
       "retail.onlinesbi.sbi",
       "sbiyono.sbi",
       "yonobusiness.sbi",
-      "mobilityretail.sbi",
-      "sbigeneral.in"
+      "mobilityretail.sbi"
     ]
   },
   {
@@ -327,8 +321,7 @@
       "HDFC"
     ],
     "domains": [
-      "hdfcbank.co.in",
-      "hdfc.io"
+      "hdfcbank.co.in"
     ]
   },
   {
