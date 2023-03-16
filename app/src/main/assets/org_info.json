@@ -42,41 +42,48 @@
     ]
   },
   {
-    "name": "O2",
+    "name": "MyJio",
     "keywords": [
-      "O2"
+      "MyJio",
+      "jio"
     ],
     "domains": [
-      "o2.co.uk"
+      "jio.com",
+      "jioconference.com",
+      "tiny1.jio.com"
     ]
   },
   {
-    "name": "Vodafone",
+    "name": "VI",
     "keywords": [
-      "vodafone"
+      "VI"
     ],
     "domains": [
-      "vodafone.co.uk",
-      "vodafone.com"
+      "stores.myvi.in",
+      "myvi.in"
     ]
   },
   {
-    "name": "EE",
+    "name": "youtube",
     "keywords": [
-      "EE"
+      "Youtube"
     ],
     "domains": [
-      "ee.co.uk"
+      "youtube.com",
+      "youtub"
     ]
   },
   {
-    "name": "BT",
+    "name": "Bsnl",
     "keywords": [
-      "BT",
-      "British Telecom"
+      "bsnl",
+      "Bharat fiber",
+      "Landline"
     ],
     "domains": [
-      "bt.com"
+      "bsnl.co.in",
+      "mybillview.bsnl.co.in",
+      "yupptv.la"
     ]
   },
   {
@@ -125,12 +132,12 @@
     ]
   },
   {
-    "name": "American Express",
+    "name": "IOB",
     "keywords": [
-      "Amex"
+      "IOB"
     ],
     "domains": [
-      "amex.co"
+      "iobnet.co.in"
     ]
   },
   {
