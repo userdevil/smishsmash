@@ -50,7 +50,8 @@
     "domains": [
       "jio.com",
       "jioconference.com",
-      "tiny1.jio.com"
+      "tiny1.jio.com",
+      "t.jig"
     ]
   },
   {
@@ -70,7 +71,7 @@
     ],
     "domains": [
       "youtube.com",
-      "youtub"
+      "youtu.be"
     ]
   },
   {
@@ -137,7 +138,8 @@
       "IOB"
     ],
     "domains": [
-      "iobnet.co.in"
+      "iobnet.co.in",
+      "iob.in"
     ]
   },
   {
@@ -190,58 +192,63 @@
     ]
   },
   {
-    "name": "FedEx",
+    "name": "UTS",
     "keywords": [
-      "FedEx"
+      "UTS",
+      "UTS Mobile Ticket"
     ],
     "domains": [
-      "fedex.com"
+      "utsonmobile.indianrail.gov.in"
     ]
   },
   {
-    "name": "Collect+",
+    "name": "PayTM",
     "keywords": [
-      "Collect+"
+      "Paytm"
     ],
     "domains": [
-      "nd.uk.com"
+      "paytm.com",
+      "m.p-y.tm"
     ]
   },
   {
-    "name": "Next",
+    "name": "Gpay",
     "keywords": [
-      "Next"
+      "Gpay",
+      "Google Pay"
     ],
     "domains": [
-      "next.co"
+      "pay.google.com"
     ]
   },
   {
-    "name": "DPD",
+    "name": "Linkedin",
     "keywords": [
-      "DPD"
+      "Linkedin"
     ],
     "domains": [
-      "dpd.co.uk",
-      "dpdlocal.co.uk"
+      "linkedin.com",
+      "linkedin.in"
     ]
   },
   {
-    "name": "DX",
+    "name": "Twitter",
     "keywords": [
-      "DX Delivery"
+      "twitter"
     ],
     "domains": [
-      "mydx.uk"
+      "twitter.com"
+      "twitter.in"
     ]
   },
   {
-    "name": "Parcel Force",
+    "name": "Facebook",
     "keywords": [
-      "Parcel Force"
+      "Facebook"
     ],
     "domains": [
-      "parcelforce.com"
+      "facebook.com",
+      "facebook.in"
     ]
   },
   {
@@ -251,7 +258,7 @@
     ],
     "domains": [
       "amazon.com",
-      "amazon.co.uk"
+      "amazon.in"
     ]
   },
   {
@@ -260,17 +267,18 @@
       "DHL"
     ],
     "domains": [
-      "dhlparcel.co.uk",
+      "dhlparcel.in",
       "dhl.com"
     ]
   },
   {
-    "name": "Argos",
+    "name": "IRCTC",
     "keywords": [
-      "Argos"
+      "IRCTC",
+      "PNR"
     ],
     "domains": [
-      "argos.co.uk"
+      "irctc.co.in"
     ]
   },
   {
@@ -290,7 +298,8 @@
       "retail.onlinesbi.sbi",
       "sbiyono.sbi",
       "yonobusiness.sbi",
-      "mobilityretail.sbi"
+      "mobilityretail.sbi",
+      "sbigeneral.in"
     ]
   },
   {
